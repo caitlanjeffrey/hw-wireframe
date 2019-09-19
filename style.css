@@ -49,7 +49,17 @@ article  {
     padding: 5px;
 }
 
+h3 {
+    color: #777;
+}
+
 h4 {
+    background-color: #ebebeb;
+    margin: 5px;
+    text-align: center;
+}
+
+h5 {
     background-color: #ebebeb;
     margin: 5px;
     text-align: center;
@@ -84,9 +94,8 @@ h4 {
 footer {
     background-color: #ebebeb;
     display: inline-block;
-    margin: 10px 10px 0px 0px;
+    margin: 5px 0px 0px 0px;
+    padding: 5px 0px 5px 0px;
     width: 950px;
     height: auto;
-    font-size: 14px;
-    clear: both;
 }
